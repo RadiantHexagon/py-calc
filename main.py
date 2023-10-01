@@ -79,7 +79,7 @@ def sub():
             cub()
         if f == "Pow":
             pow()
-f = input("What operation do you want to do? Add, Sub, Mul, Div, Com, Sqa, Cub, or Pow? ")
+        f = input("What operation do you want to do? Add, Sub, Mul, Div, Com, Sqa, Cub, or Pow? ")
 def mul():
         a = input("What is your first number? ")
         a = int(a)
